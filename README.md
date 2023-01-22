@@ -1,21 +1,10 @@
-# profesional_scikitlearn_platzi
-Repositorio de código usado durante el Curso Profesional de Scikit-Learn para Platzi.
+<div align="center">
+    <h1>Curso Profesional de Machine Learning con Scikit-Learn</h1>
+    <img src="https://imgur.com/cE2aEMF.png" width="">
+</div>
 
-En este repositorio podrás encontrar 16 ramas relacionadas con el curso, en orden:
+## Introducción al documento
 
-1. preparacion_datos_pca
-2. implementacion_algoritmo_pca
-3. kernel_y_pca
-4. implementacion_lasso_ridge 
-5. preparacion_regresion_robusta
-6. implementacion_regresion_robusta
-7. preparacion_datos_bagging
-8. implementacion_bagging
-9. implementacion_boosting
-10. implementacion_kmeans
-11. implementacion_meanshift
-12. implementacion_crossval
-13. implementacion_randomizedSearchCV
-14. revision_arquitectura
-15. creacion_exportacion_modelo
-16. creacion_servidor_flask
+El contenido de este documento es **teorico - practico** del [Curso Profesional de Machine Learning con Scikit-Learn](https://platzi.com/cursos/scikitlearn-ml/) y busca ser una guía para futuros trabajos. El mismo está dictado por [Ariel Ortiz](https://platzi.com/profesores/ludthor/), Arquitecto de datos en [DataKnow](https://dataknow.io/). El curso es de [Platzi](https://platzi.com).
+
+Scikit-Learn es una biblioteca de Python que ofrece un conjunto de algoritmos eficientes que pueden ser utilizados para realizar Machine Learning en un ambiente productivo. Con el Curso Profesional de Machine Learning con SciKit-Learn de Platzi aprenderemos a implementar los principales algoritmos disponibles en esta biblioteca.
